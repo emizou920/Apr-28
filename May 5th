@@ -1,0 +1,2 @@
+Recursion
+sum(n) = n + sum(n-1)
